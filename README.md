@@ -1,5 +1,5 @@
 # Cotizador de seguros - Curso React Hooks
-[App corriendo en Netlify](https://cotizadorseguros.netlify.com).
+[App corriendo en Netlify](https://cotizadoseguros.netlify.com).
 
 
 
